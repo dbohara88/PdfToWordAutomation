@@ -1,0 +1,5 @@
+pageObjects/LandingPage.class
+abstractComponent/AbstractComponent.class
+resources/ExtentReporterNG.class
+pageObjects/DownloadPage.class
+pageObjects/UploadPage.class
